@@ -1,2 +1,10 @@
-﻿  MainForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  WindowsFormCpp.vcxproj -> D:\Programming\CPP\WindowsFormCpp\Debug\WindowsFormCpp.exe
+﻿  MainForm.cpp
+D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormCpp\MainForm.cpp : fatal error C1192: cбой #using для "D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormsControlLibrary2\bin\Debug\WindowsFormsControlLibrary2.dll"
+          "Не удается найти указанный файл."
+  OneChanalControl.cpp
+D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormCpp\OneChanalControl.cpp : fatal error C1192: cбой #using для "D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormsControlLibrary2\bin\Debug\WindowsFormsControlLibrary2.dll"
+          "Не удается найти указанный файл."
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormCpp\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cpp : fatal error C1192: cбой #using для "D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormsControlLibrary2\bin\Debug\WindowsFormsControlLibrary2.dll"
+          "Не удается найти указанный файл."
+  Создание кода...

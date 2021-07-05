@@ -17,3 +17,9 @@ D:\Programming\CPP\WindowsFormCpp\WindowsFormsControlLibrary2\bin\Debug\LiveChar
 D:\Programming\CPP\WindowsFormCpp\WindowsFormsControlLibrary2\bin\Debug\LiveCharts.Wpf.xml
 D:\Programming\CPP\WindowsFormCpp\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.csproj.CopyComplete
 D:\Programming\CPP\WindowsFormCpp\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.Properties.Resources.resources
+D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.csproj.AssemblyReference.cache
+D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.Properties.Resources.resources
+D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.UserControl1.resources
+D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.csproj.GenerateResource.cache
+D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.csproj.CoreCompileInputs.cache
+D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.pdb

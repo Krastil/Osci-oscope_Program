@@ -16,3 +16,8 @@ D:\Programming\CPP\WindowsFormCpp\WindowsFormsControlLibrary3\obj\Debug\WindowsF
 D:\Programming\CPP\WindowsFormCpp\WindowsFormsControlLibrary3\obj\Debug\WindowsFormsControlLibrary3.csproj.CopyComplete
 D:\Programming\CPP\WindowsFormCpp\WindowsFormsControlLibrary3\obj\Debug\WindowsFormsControlLibrary3.dll
 D:\Programming\CPP\WindowsFormCpp\WindowsFormsControlLibrary3\obj\Debug\WindowsFormsControlLibrary3.pdb
+D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormsControlLibrary3\obj\Debug\WindowsFormsControlLibrary3.csproj.AssemblyReference.cache
+D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormsControlLibrary3\obj\Debug\WindowsFormsControlLibrary3.UserControl1.resources
+D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormsControlLibrary3\obj\Debug\WindowsFormsControlLibrary3.csproj.GenerateResource.cache
+D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormsControlLibrary3\obj\Debug\WindowsFormsControlLibrary3.csproj.CoreCompileInputs.cache
+D:\Osciloscope_Program\Osci-oscope_Program\WindowsFormCpp\WindowsFormsControlLibrary3\obj\Debug\WindowsFormsControlLibrary3.pdb
