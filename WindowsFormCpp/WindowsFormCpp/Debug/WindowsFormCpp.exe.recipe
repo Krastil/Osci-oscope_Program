@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Programming\CPP\WindowsFormCpp\Debug\WindowsFormCpp.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Programming\CPP\WindowsFormCpp\WindowsFormCpp\OneChanalControl.h</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs>
+    <NonRecipeFileRef>
+      <FullPath>D:\Programming\CPP\WindowsFormCpp\WindowsFormsControlLibrary2\WindowsFormsControlLibrary2.csproj</FullPath>
+    </NonRecipeFileRef>
+    <NonRecipeFileRef>
+      <FullPath>D:\Programming\CPP\WindowsFormCpp\WindowsFormsControlLibrary3\WindowsFormsControlLibrary3.csproj</FullPath>
+    </NonRecipeFileRef>
+  </NonRecipeFileRefs>
+</Project>

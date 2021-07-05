@@ -1,0 +1,6 @@
+D:\Programming\CPP\WindowsFormCpp\WindowsFormCpp\Debug\WindowsFormCpp.MainForm.resources
+D:\Programming\CPP\WindowsFormCpp\WindowsFormCpp\Debug\WindowsFormCpp.OneChanalControl.resources
+D:\Programming\CPP\WindowsFormCpp\WindowsFormCpp\Debug\WindowsFormCpp.vcxproj.GenerateResource.cache
+D:\Programming\CPP\WindowsFormCpp\Debug\OneChanalControl.h
+D:\Programming\CPP\WindowsFormCpp\WindowsFormCpp\Debug\WindowsFormCpp.vcxproj.AssemblyReference.cache
+D:\Programming\CPP\WindowsFormCpp\WindowsFormCpp\Debug\WindowsFormCpp.vcxproj.CopyComplete

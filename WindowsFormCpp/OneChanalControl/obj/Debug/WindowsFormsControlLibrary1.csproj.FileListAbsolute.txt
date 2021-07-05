@@ -1,0 +1,8 @@
+D:\Programming\CPP\WindowsFormCpp\OneChanalControl\bin\Debug\OneChanalControl.dll
+D:\Programming\CPP\WindowsFormCpp\OneChanalControl\bin\Debug\OneChanalControl.pdb
+D:\Programming\CPP\WindowsFormCpp\OneChanalControl\obj\Debug\WindowsFormsControlLibrary1.csproj.AssemblyReference.cache
+D:\Programming\CPP\WindowsFormCpp\OneChanalControl\obj\Debug\OneChanalControl.UserControl1.resources
+D:\Programming\CPP\WindowsFormCpp\OneChanalControl\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+D:\Programming\CPP\WindowsFormCpp\OneChanalControl\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+D:\Programming\CPP\WindowsFormCpp\OneChanalControl\obj\Debug\OneChanalControl.dll
+D:\Programming\CPP\WindowsFormCpp\OneChanalControl\obj\Debug\OneChanalControl.pdb
